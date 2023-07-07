@@ -1,0 +1,4 @@
+ErrorDocument 404 /404.html
+  
+ErrorDocument 404 /404.html
+Redirect 301 /discord https://discord.gg/nukamc-minecraft-server-886233018895843328
